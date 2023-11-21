@@ -1,10 +1,23 @@
-header {
-    background-color: #2760b0;
-}
-header h1 {
-    font-family: fantasy;
-}
 
 body {
     background-color: #b3b4b7;
+    font-family: sans-serif;
+    
+ }
+
+header {
+    background-color: #2760b0;
+}
+
+.cursive {
+    font-family:cursive;
+}
+
+.home {
+    font-family: sans-serif;
+    text-decoration: underline;
+}
+
+.border-box {
+    text-decoration: underline;
 }

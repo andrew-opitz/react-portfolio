@@ -8,13 +8,17 @@ function Resume () {
 
         <ul className="mt-4">
             <h1>Front End</h1>
-            <li>HTML</li>
+            <li>HTML/CSS</li>
             <li>JavaScript</li>
             <li>Bootstrap</li>
-            <li>React.js</li>
-            <li></li>
+            <li>React</li>
+            
             <h1>Back End</h1>
-            <li></li>
+            <li>Node</li>
+            <li>Express</li>
+            <li>RESTful API</li>
+            <li>CRUD operations</li>
+            
 
         </ul>
 

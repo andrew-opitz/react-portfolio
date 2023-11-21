@@ -3,8 +3,7 @@ import Project from '../components/Project'
 function Portfolio() {
     return (
         <>
-        <h2 className='text-center'>My Works</h2>
-
+        <h1 className='text-center mt-4'>Portfolio</h1>
         <Project />
         </>
     )

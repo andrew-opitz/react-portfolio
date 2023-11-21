@@ -5,7 +5,7 @@ function Navigation () {
     return (
     <>
         <header className='d-flex justify-content-between'>
-            <h1>Andrew</h1>
+            <h1 className='cursive'>Opitz</h1>
             
         <nav className='navbar'>
             
