@@ -9,10 +9,10 @@ function Navigation () {
             
         <nav className='navbar'>
             
-            <NavLink to="/portfolio" className='nav-link ms-2' activeClassName='active'>Portfolio</NavLink>
-            <NavLink to="/resume" className='nav-link ms-2' activeClassName='active'>Resume</NavLink>
-            <NavLink to="/about" className='nav-link ms-2' activeClassName='active'>About Me</NavLink>
-            <NavLink to="/contact" className='nav-link ms-2' activeClassName='active'>Contact</NavLink>
+            <NavLink to="/portfolio" className='nav-link ms-2' activeclassname='active'>Portfolio</NavLink>
+            <NavLink to="/resume" className='nav-link ms-2' activeclassname='active'>Resume</NavLink>
+            <NavLink to="/about" className='nav-link ms-2' activeclassname='active'>About Me</NavLink>
+            <NavLink to="/contact" className='nav-link ms-2' activeclassname='active'>Contact</NavLink>
         </nav>
         </header>
 
